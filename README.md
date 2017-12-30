@@ -6,7 +6,10 @@ The result of the program is EQUIVALENT or NOT_EQUIVALENT.
 
 If a DFA is not minimum, the program first minimize the DFA.
 
-## INDEX
+## Author
+Ángel Luis Igareta Herráiz
+
+## Index
 * [Usage](#usage)
 * [License](#license)
 
